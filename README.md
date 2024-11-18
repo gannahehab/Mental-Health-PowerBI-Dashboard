@@ -28,7 +28,9 @@ Designed a user-friendly Power BI dashboard to visualize key findings and enable
 🛠️ Technologies Used:
 
 •🐍 Python: Data preprocessing and analysis.
+
 •📑 Pandas: Efficient data manipulation.
+
 •📈 Power BI: Creation of an interactive and dynamic dashboard.
 
 🎯 Why This Matters :
