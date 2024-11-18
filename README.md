@@ -30,10 +30,12 @@ Here is a snapshot of the dashboard created in Power BI:
 •📈 Power BI: Creation of an interactive and dynamic dashboard.
 
 🎯 Why This Matters :
-•This project highlights the importance of addressing mental health and lifestyle factors to improve academic performance.
- The insights derived from this analysis can guide educational institutions to better support student well-being and success.
+
+- This project highlights the importance of addressing mental health and lifestyle factors to improve academic performance.
+The insights derived from this analysis can guide educational institutions to better support student well-being and success.
 
 🤝 Get Involved
+
 Feel free to explore and contribute to this project!
 
 
