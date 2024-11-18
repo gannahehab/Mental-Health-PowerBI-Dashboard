@@ -10,7 +10,7 @@ Here is a snapshot of the dashboard created in Power BI:
 🌟 Project Overview
 This project investigates how mental health and lifestyle factors affect the academic performance of students at the Higher Technological Institute (HTI). Using data collected from 325 students, I applied comprehensive data cleaning and analysis techniques to uncover meaningful correlations and insights.
 
-✨ Key Highlights
+✨ Key Highlights:
 
 • 📋 Data Collection
 Survey data from 325 students, focusing on mental health, lifestyle habits, and academic outcomes.
@@ -24,9 +24,13 @@ Uncovered trends and relationships between mental health, lifestyle habits (e.g.
 • 📊 Interactive Dashboard
 Designed a user-friendly Power BI dashboard to visualize key findings and enable data-driven decision-making.
 
-🛠️ Technologies Used
+
+🛠️ Technologies Used :
+
 • 🐍 Python: Data preprocessing and analysis.
+
 • 📑 Pandas: Efficient data manipulation.
+
 • 📈 Power BI: Creation of an interactive and dynamic dashboard.
 
 🎯 Why This Matters
